@@ -1,0 +1,6 @@
+---
+name: Scoreboard
+version: 1.0.0
+main: MohamadRZ\Scoreboard\Main
+api: 3.0.0
+...

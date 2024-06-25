@@ -1,0 +1,37 @@
+# config.yml
+# Set to "false" to disable the scoreboard
+scoreboard: true
+
+############################################################
+############################################################
+############################################################
+# If you want the scoreboard title to update every second, set "update_title" to "true"
+update_title: false
+# If "update_title" is set to "true", the scoreboard lines will update every second with these titles:
+scoreboard_title_task:
+  - "Hello"
+  - "Welcome"
+  - "server"
+
+# Each 20 ticks equals 1 second
+# Example: 40 = 2 seconds
+scoreboard_title_task_update_interval: 20
+############################################################
+############################################################
+############################################################
+
+
+
+
+# Scoreboard title
+scoreboard_title: "Scoreboard"
+
+# Your scoreboard lines
+scoreboard_lines:
+  - "Line 1"
+  - "Line 2"
+  - "Line 3"
+
+
+# Every 20 ticks equals 1 second
+update_interval: 20
